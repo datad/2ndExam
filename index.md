@@ -14,12 +14,12 @@ Answer
 >
 
   <label>
-    <input type="hidden" name="_replyto" value="dianmante@gmail.com">
     Your message:
     <textarea name="message"></textarea>
   </label>
 
   <!-- your other form fields go here -->
-
+  <input type="hidden" name="_replyto" value="dianmante@gmail.com">
+  <input type=”hidden” name=”_next” value=”https://datad.github.io/2ndExam/” />
   <button type="submit">Send</button>
 </form>
