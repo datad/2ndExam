@@ -12,11 +12,9 @@ Answer
   action="https://formspree.io/mrglwqrq"
   method="POST"
 >
+
   <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
+    <input type="hidden" name="_replyto" value="dianmante@gmail.com">
     Your message:
     <textarea name="message"></textarea>
   </label>
