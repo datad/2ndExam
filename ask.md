@@ -11,7 +11,7 @@ ype a description of the problem you are trying to solve. The problem number doe
  >		
 		
    <label>		
-     What is your question? </br>		
+     What is your question?		
      <textarea name="message"></textarea>		
    </label>		
 
