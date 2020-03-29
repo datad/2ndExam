@@ -17,6 +17,6 @@ ype a description of the problem you are trying to solve. The problem number doe
 
       <!-- your other form fields go here -->		
     <input type="hidden" name="_replyto" value="dianmante@gmail.com">	
-    <input type="hidden" name="_next" value="https://alternativeto.net/software/formbucket/">		      
+    <input type="hidden" name="_next" value="https://datad.github.io/2ndExam/">		      
     <button type="submit">Send</button>		
   </form>
