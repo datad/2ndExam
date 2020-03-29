@@ -4,22 +4,12 @@
 
 Answer
 
+<p>
+This is an email link:
+<a href="mailto:dianmante@gmail.com?Subject=Hello%20again" target="_top">Send Mail</a>
+</p>
 
+<p>
+<b>Note:</b> Spaces between words should be replaced by %20 to ensure that the browser will display the text properly.
+</p>
 
-<!-- modify this form HTML and place wherever you want your form -->
-
-<form
-  action="https://formspree.io/mrglwqrq"
-  method="POST"
->
-
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-  <input type="hidden" name="_replyto" value="dianmante@gmail.com">
-  <input type="hidden" name="_next" value="//datad.github.io/2ndExam/" />
-  <button type="submit">Send</button>
-</form>
