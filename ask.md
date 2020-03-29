@@ -5,10 +5,7 @@ ype a description of the problem you are trying to solve. The problem number doe
 
 <!-- modify this form HTML and place wherever you want your form -->		
 
-  <form		
-   action="https://formspree.io/mrglwqrq"		
-   method="POST"		
- >		
+<form action="https://formsubmit.co/dianmante@gmail.com" method="POST" />		
 		
    <label>		
      What is your question?		
