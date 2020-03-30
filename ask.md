@@ -2,8 +2,6 @@
 
 Write here any questions that you have about your test.
 ype a description of the problem you are trying to solve. The problem number does not help identify your question because all the questions are randomly sorted, and the values are randomly generated. What is your question?
-
-<!-- modify this form HTML and place wherever you want your form -->		
 	
    <form		
     action="https://formsubmit.co/dianmante@gmail.com"		
@@ -11,11 +9,9 @@ ype a description of the problem you are trying to solve. The problem number doe
   >		
  		
     <label>		
-      What is your question? 	
-      <textarea name="message"></textarea>		
+      What is your question? 		
     </label>		
-
-      <!-- your other form fields go here -->		
+          <textarea name="message"></textarea>		
     <input type="hidden" name="_replyto" value="dianmante@gmail.com">	
     <input type="hidden" name="_next" value="https://datad.github.io/2ndExam/">		      
     <button type="submit">Send</button>		
