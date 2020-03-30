@@ -2,7 +2,7 @@
 
 This form allows you to show your work and the assumptions that you made for this exam.
 
-##      Write your work here. You can send this form as many times as you want. 		
+##      Write your work here. You can send this form as many times as you need. 		
       Include your name and UIC NetID to identify your worksheet.
 	
    <form		
@@ -11,7 +11,7 @@ This form allows you to show your work and the assumptions that you made for thi
   >		
  		
     		
-    <textarea name="message" rows="4" cols="50"></textarea>	
+    <textarea name="message" rows="20" cols="70"></textarea>	
     
     
     <input type="hidden" name="_next" value="https://datad.github.io/2ndExam/">		      
