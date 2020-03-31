@@ -1,8 +1,8 @@
 ## CS261 - 2nd Midterm
 
-# Question
+# Can we see a cheat sheet of x86 instructions?
 
-Answer
+[yes, here](cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
 
 
 [Ask a new question](ask.md)
