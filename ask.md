@@ -6,11 +6,7 @@ ype a description of the problem you are trying to solve. The problem number doe
    <form		
     action="https://formsubmit.co/dianmante@gmail.com"		
     method="POST"		
-  >		
- 		
-    <label>		
-      What is your question? 		
-    </label>		
+  >				
           <textarea name="message"></textarea>		
     <input type="hidden" name="_replyto" value="dianmante@gmail.com">	
     <input type="hidden" name="_next" value="https://datad.github.io/2ndExam/">		      
@@ -18,4 +14,4 @@ ype a description of the problem you are trying to solve. The problem number doe
   </form>
 
 
-	After few minutes, the answer to your questions will be posted in the [EXAM Q&A](index.md)
+After few minutes, the answer to your questions will be posted in the [EXAM Q&A](index.md)
