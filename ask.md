@@ -16,3 +16,6 @@ ype a description of the problem you are trying to solve. The problem number doe
     <input type="hidden" name="_next" value="https://datad.github.io/2ndExam/">		      
     <button type="submit">Send</button>		
   </form>
+
+
+	After few minutes, the answer to your questions will be posted in the [EXAM Q&A](index.md)
